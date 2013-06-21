@@ -24,9 +24,9 @@
  * THE SOFTWARE.
  */
 
-namespace Becker\Payments\PayPal;
+namespace Becker\PayPal;
 
-class PayPal
+class Plugin
 {
 	const API_VERSION = '61.0';
 	const ENDPOINT = 'https://api-3t.paypal.com/nvp';
