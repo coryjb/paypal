@@ -1,0 +1,15 @@
+{
+    "name": "coryjb/paypal",
+    "type": "library",
+    "description": "A simple wrapper to PayPal's API",
+    "keywords": ["PayPal", "PayPal Express Checkout", "PayPal API"],
+    "homepage": "http://github.com/coryjb/paypal",
+    "license": "MIT",
+    "repositories": [
+        "type": "vcs",
+        "url": "http://github.com/coryjb/paypal"
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
